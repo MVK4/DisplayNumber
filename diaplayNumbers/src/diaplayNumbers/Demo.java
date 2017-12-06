@@ -7,6 +7,7 @@ public class Demo {
 			System.out.println(x);
 			x++;
 			/////
+			/////
 		}while(x<=10);
 	}
 }
