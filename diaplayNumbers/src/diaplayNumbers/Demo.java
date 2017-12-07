@@ -8,6 +8,7 @@ public class Demo {
 			x++;
 			/////
 			/////
+			////////
 		}while(x<=10);
 	}
 }
