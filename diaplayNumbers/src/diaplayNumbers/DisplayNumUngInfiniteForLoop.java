@@ -5,7 +5,7 @@ public class DisplayNumUngInfiniteForLoop {
 	public static void main(String[] args) {
 		
 		// TODO Auto-generated method stub
-		int x = 1;////
+		int x = 1;////////
 		for( ; ; ) {
 			System.out.println(x);
 			x++;
